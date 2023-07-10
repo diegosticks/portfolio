@@ -57,6 +57,12 @@ p {
 button {
     background-color: yellow;
     font-weight: bold;
+    transition: all 0.5.;
+}
+
+.container-item:hover {
+    background-color: blueviolet;
+    color: white;
 }
 
 #email {
